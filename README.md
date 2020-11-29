@@ -16,6 +16,7 @@
  - card number management
  - buy and sell system
 
+It is a money exchange web application. Money can be exchanged with it. Users can easily order and sell dollars easily. Email notifications have been used in the past so that users can easily get notifications. This is a demo link.
 ###
 [Exchange money](https://exchangemony.herokuapp.com/)
 
